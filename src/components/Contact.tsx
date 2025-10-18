@@ -92,7 +92,7 @@ const Contact = () => {
 
             <Button
               onClick={handleWhatsApp}
-              className="w-full bg-green-600 hover:bg-green-700 text-white"
+              className="w-full bg-green-600 hover:bg-green-700 text-white mt-10"
               size="lg"
             >
               <MessageCircle className="mr-2" size={20} />

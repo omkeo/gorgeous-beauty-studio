@@ -1,4 +1,4 @@
-import salonImage from "@/assets/salon-interior.jpg";
+import salonImage from "@/assets/salon-interior.png";
 
 const About = () => {
   return (
